@@ -1,0 +1,5 @@
+streamlit>=1.37
+pandas>=2.2
+numpy>=1.27
+fpdf2>=2.7
+altair>=5.3
