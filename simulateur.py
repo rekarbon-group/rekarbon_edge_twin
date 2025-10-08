@@ -1,4 +1,7 @@
 import streamlit as st
+if 'lang' not in st.session_state:
+    st.session_state['lang'] = 'FR'
+
 import pandas as pd
 import time
 import numpy as np 
